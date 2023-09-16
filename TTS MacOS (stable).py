@@ -18,7 +18,7 @@ def text_to_speech(text, output_file="output.mp3", lang="en"):
         return str(e)
 
 if __name__ == "__main__":
-    text = "Gucci."  # Add your text here
+    text = "Hello, this is a sample text to speech conversion."  # Add your text here
     output_file = text_to_speech(text)
     print(f"Audio saved to {output_file}")
 # Press control+R to run TTS
