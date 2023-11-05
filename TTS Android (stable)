@@ -2,7 +2,7 @@ from gtts import gTTS
 import pygame
 
 # Text you want to convert to speech
-text = ""
+text = "" # Write the text you want the TTS program to run
 
 # Create a gTTS object
 tts = gTTS(text)
