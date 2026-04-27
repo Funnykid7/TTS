@@ -1,5 +1,5 @@
 # TTS
-THE best pycharm TTS for all desktop operating systems and Android
+A simp,e tts tool
 # Text-to-Speech (TTS) Python Script
 
 This simple Python script demonstrates how to convert text to speech using the Google Text-to-Speech API and the gTTS library. It allows you to generate speech from text and save it as an audio file. You can also customize the output file name and language.
